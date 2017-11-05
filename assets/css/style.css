@@ -1,0 +1,51 @@
+h1 {
+
+}
+
+.top-nav {
+	height: 85px;
+	width: 960px;
+	background-color: white;
+	margin: 0 auto;
+}
+
+.name-box {
+	background-color: #03aba0;
+	color: #ffffff;
+	float: left;
+	height: 100%;
+	line-height: 85px;
+	padding: 0px 30px 0px 30px;
+
+}
+
+.nav-links {
+	float: right;
+	line-height: 85px;
+
+}
+
+.main-content {
+	clear: both;
+	width: 960px;
+	margin: 0 auto;
+}
+
+.about-me {
+	float: left;
+	width: 650px;
+}
+
+.social-sidebar {
+	float: right;
+	width: 270px;
+}
+
+.social-sidebar img {
+	float: right;
+	width: 75px;
+}
+
+.footer {
+	clear: both;
+}
