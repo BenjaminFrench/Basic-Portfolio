@@ -120,6 +120,14 @@ label {
 	padding: 40px 30px 40px 30px;
 }
 
+.portfolio-rows-container {
+	margin: 50px 0 0 0;
+}
+
+.portfolio-row {
+	margin: 0 0 50px 0;
+}
+
 .portfolio {
 	float: left;
 	width: 588px;
@@ -128,6 +136,10 @@ label {
 	border-width: 1px 1px 1px 1px;
 	border-style: solid;
 	padding: 40px 30px 40px 30px;
+}
+
+.portfolio img:first-of-type {
+	margin-right: 38px;
 }
 .form-container input {
 	width: 576px;
@@ -151,6 +163,7 @@ label {
 	font-size: 1.25em;
 	cursor: pointer;
 }
+
 .headshot {
 	width: 150px;
 	float: left;
