@@ -4,7 +4,7 @@ body {
 	color: #777777;
 }
 
-h1, h2, h3 {
+h1, h2, h3{
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	font-weight: bold;
 }
@@ -53,6 +53,11 @@ label {
 	font-size: 18px;
 	line-height: 2em;
 }
+
+span {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
 .top-nav-container {
 	border-style: solid;
 	border-color: #cccccc;
@@ -139,8 +144,30 @@ label {
 }
 
 .portfolio img:first-of-type {
+	/*margin-right: 38px;*/
+}
+
+.portfolio-image {
+	display: inline-block;
+	position: relative;
+}
+
+.portfolio-image-left {
 	margin-right: 38px;
 }
+
+
+.image-label {
+	color: #ffffff;
+	background-color: #03aba0;
+	position: absolute;
+	bottom: 15px;
+	width: 100%;
+	text-align: center;
+	font-size: 1.5em;
+	padding: 15px 0 15px 0;
+}
+
 .form-container input {
 	width: 576px;
 	margin: 0 0 10px 0;
