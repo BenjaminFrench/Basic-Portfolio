@@ -101,6 +101,12 @@ a {
 	padding: 40px 30px 40px 30px;
 }
 
+.headshot {
+	width: 150px;
+	float: left;
+	margin: 0 25px 25px 0;
+}
+
 .social-sidebar {
 	float: right;
 	width: 210px;
@@ -111,8 +117,15 @@ a {
 	padding: 40px 30px 40px 30px;
 }
 
-.social-sidebar img {
-	width: 75px;
+.sidebar-img {
+	width: 60px;
+	margin: 0 10px 0 0;
+}
+
+/* I would have used :last-of-type or :last-child here but I could not
+   figure out a clean way to do it with classes vs. using img:last-child*/
+.sidebar-last-img {
+	margin: 0 0px 0 0;
 }
 
 .footer {
