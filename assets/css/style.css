@@ -113,6 +113,7 @@ span {
 	border-width: 1px 1px 1px 1px;
 	border-style: solid;
 	padding: 40px 30px 40px 30px;
+	margin-bottom: 50px;
 }
 
 .contact-me {
@@ -123,6 +124,7 @@ span {
 	border-width: 1px 1px 1px 1px;
 	border-style: solid;
 	padding: 40px 30px 40px 30px;
+	margin-bottom: 50px;
 }
 
 .portfolio-rows-container {
@@ -141,6 +143,7 @@ span {
 	border-width: 1px 1px 1px 1px;
 	border-style: solid;
 	padding: 40px 30px 40px 30px;
+	margin-bottom: 50px;
 }
 
 .portfolio img:first-of-type {
