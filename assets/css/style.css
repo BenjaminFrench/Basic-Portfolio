@@ -44,6 +44,11 @@ a {
 	font-weight: normal;
 }
 
+p {
+	font-size: 18px;
+	line-height: 2em;
+}
+
 .top-nav-container {
 	border-style: solid;
 	border-color: #cccccc;
@@ -104,7 +109,7 @@ a {
 .headshot {
 	width: 150px;
 	float: left;
-	margin: 0 25px 25px 0;
+	margin: 10px 25px 0 0;
 }
 
 .social-sidebar {
