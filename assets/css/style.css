@@ -102,7 +102,7 @@ label {
 
 .about-me {
 	float: left;
-	width: 590px;
+	width: 588px;
 	background-color: #ffffff;
 	border-color: #dddddd;
 	border-width: 1px 1px 1px 1px;
@@ -112,7 +112,7 @@ label {
 
 .contact-me {
 	float: left;
-	width: 590px;
+	width: 588px;
 	background-color: #ffffff;
 	border-color: #dddddd;
 	border-width: 1px 1px 1px 1px;
@@ -120,6 +120,15 @@ label {
 	padding: 40px 30px 40px 30px;
 }
 
+.portfolio {
+	float: left;
+	width: 588px;
+	background-color: #ffffff;
+	border-color: #dddddd;
+	border-width: 1px 1px 1px 1px;
+	border-style: solid;
+	padding: 40px 30px 40px 30px;
+}
 .form-container input {
 	width: 576px;
 	margin: 0 0 10px 0;
@@ -150,7 +159,7 @@ label {
 
 .social-sidebar {
 	float: right;
-	width: 210px;
+	width: 208px;
 	background-color: #ffffff;
 	border-color: #dddddd;
 	border-width: 1px 1px 1px 1px;
