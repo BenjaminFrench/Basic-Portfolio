@@ -121,13 +121,13 @@ label {
 }
 
 .form-container input {
-	width: 100%;
+	width: 576px;
 	margin: 0 0 10px 0;
 	padding: 10px 0 10px 10px;
 }
 
 .form-container textarea {
-	width: 100%;
+	width: 584px;
 	height: 200px;
 	margin: 0 0 20px 0;
 }
@@ -140,6 +140,7 @@ label {
 	padding: 15px 30px 15px 30px;
 	color: #ffffff;
 	font-size: 1.25em;
+	cursor: pointer;
 }
 .headshot {
 	width: 150px;
