@@ -169,7 +169,7 @@ label {
 
 .sidebar-img {
 	width: 60px;
-	margin: 0 10px 0 0;
+	margin: 0 14px 0 0;
 }
 
 /* I would have used :last-of-type or :last-child here but I could not
